@@ -1,2 +1,1 @@
-# Repository-2
-Esta la prueba 2 de repositorio.
+Este proyecto es una prueba de como crear un repositorio y clonarlo.
